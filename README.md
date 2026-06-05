@@ -32,6 +32,16 @@ led to significantly different outcomes despite similar systematic risk profiles
   concentrated Canadian real estate exposure and conservative IFRS 9 provisioning strategy
 - **BMO's** ROE collapsed to 6% in 2023 following the Bank of the West acquisition, 
   with CET1 declining from 16.7% to 12.5% as capital was deployed for U.S. expansion
+  ## Visualizations
+
+### Stock Performance (2022–2024)
+![Stock Performance](output/bank_performance.png)
+
+### Return Correlation Matrix
+![Correlation Matrix](output/correlation_matrix.png)
+
+### Financial Metrics Comparison
+![Financial Metrics](output/financial_metrics.png)
 
 ## Repository Structure
 ```
