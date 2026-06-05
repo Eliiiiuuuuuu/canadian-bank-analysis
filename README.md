@@ -35,13 +35,13 @@ led to significantly different outcomes despite similar systematic risk profiles
   ## Visualizations
 
 ### Stock Performance (2022–2024)
-![Stock Performance](output/bank_performance.png)
+![Stock Performance](bank_performance.png)
 
 ### Return Correlation Matrix
-![Correlation Matrix](output/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png)
 
 ### Financial Metrics Comparison
-![Financial Metrics](output/financial_metrics.png)
+![Financial Metrics](financial_metrics.png)
 
 ## Repository Structure
 ```
