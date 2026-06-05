@@ -34,6 +34,7 @@ led to significantly different outcomes despite similar systematic risk profiles
   with CET1 declining from 16.7% to 12.5% as capital was deployed for U.S. expansion
 
 ## Repository Structure
+```
 canadian-bank-analysis/
 ├── README.md
 ├── data/
@@ -46,6 +47,7 @@ canadian-bank-analysis/
 │   └── financial_metrics.png
 └── database/
     └── canadian_banks.db
+```
 
 ## How to Run
 1. Clone this repository
