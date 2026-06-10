@@ -65,28 +65,27 @@ reflecting persistent AML regulatory overhang.
   Latin American portfolio continues to pressure credit metrics.
 
 ## Visualizations
-![Stock Performance](output/bank_performance.png)
-![Financial Metrics](output/financial_metrics.png)
-![Return vs ROE and PCL](output/return_drivers.png)
-![Alpha Beta Analysis](output/alpha_beta.png)
-![Price-to-Book Ratio](output/pb_ratio.png)
+![Stock Performance](bank_performance.png)
+![Financial Metrics](financial_metrics.png)
+![Return vs ROE and PCL](return_drivers.png)
+![Alpha Beta Analysis](alpha_beta.png)
+![Price-to-Book Ratio](pb_ratio.png)
+
 
 ## Repository Structure
 ```
 canadian-bank-analysis/
+canadian-bank-analysis/
 ├── README.md
-├── data/
-│   ├── financials.xlsx
-│   └── bvps.xlsx
-├── notebooks/
-│   └── analysis.ipynb
-├── output/
-│   ├── bank_performance.png
-│   ├── financial_metrics.png
-│   ├── return_drivers.png
-│   ├── alpha_beta.png
-│   └── pb_ratio.png
-└── database/
+├── Canadian_Bank_Stock_Financial_Performance_Analysis.ipynb
+├── financials.xlsx
+├── bvps.xlsx
+├── bank_performance.png
+├── financial_metrics.png
+├── return_drivers.png
+├── alpha_beta.png
+├── pb_ratio.png
+├── dashboard.pbix
 └── canadian_banks.db
 ```
 
