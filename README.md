@@ -72,6 +72,7 @@ reflecting persistent AML regulatory overhang.
 ![Price-to-Book Ratio](output/pb_ratio.png)
 
 ## Repository Structure
+```
 canadian-bank-analysis/
 ├── README.md
 ├── data/
@@ -87,6 +88,7 @@ canadian-bank-analysis/
 │   └── pb_ratio.png
 └── database/
 └── canadian_banks.db
+```
 
 ## How to Run
 1. Clone this repository
