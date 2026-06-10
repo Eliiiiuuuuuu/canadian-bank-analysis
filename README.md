@@ -65,7 +65,7 @@ reflecting persistent AML regulatory overhang.
   Latin American portfolio continues to pressure credit metrics.
 
  ## Findings ##
-Beta analysis confirmed near-identical systematic risk across the sector (0.815–1.023), meaning idiosyncratic factors — regulatory events, acquisition integration, geographic exposure — fully explain the return divergence
+Beta analysis confirmed near-identical systematic risk across the sector (0.815–1.023), meaning idiosyncratic factors — regulatory events, acquisition integration, geographic exposure — fully explain the return divergence.
 
 ## Visualizations
 ![Stock Performance](bank_performance.png)
