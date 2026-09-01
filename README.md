@@ -11,7 +11,7 @@ The analysis moves from fundamental metrics → stock performance → CAPM risk 
 
 ## Tools & Technologies
 - **Python** (yfinance, pandas, matplotlib, scipy) — data collection, analysis, visualization
-- **SQL** (SQLite, window functions) — fundamental data storage and querying
+- **SQL** SQL (SQLite) — fundamental data storage and querying
 - **Excel** — BVPS manually compiled from each bank's Annual Reports
 
 ## Data Sources
@@ -100,6 +100,7 @@ canadian-bank-analysis/
 
 ## Notes on Data
 - All metrics use reported (non-adjusted) figures for cross-bank comparability
+- National Bank's ROE recomputed as net income / average shareholders' equity to match the basis used by the other five banks
 - National Bank's NIM excluded from comparative analysis due to non-standard disclosure format
 - BVPS verified directly from Annual Reports; not sourced from third-party aggregators
 - Canadian bank fiscal year ends October 31; all year-end prices taken accordingly
